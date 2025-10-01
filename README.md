@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./Mafuyu.png" width="150"/>
-  <img src="./gradienttext.svg" height="150"/>
-  <img src="./Ena.png" width="150"/>
+  <img src="./Mafuyu.png" width="120"/>
+  <img src="./gradienttext.svg" height="120"/>
+  <img src="./Ena.png" width="120"/>
 </p>
 
 
-<div style="width:100%; height:8px; background:linear-gradient(to right, #8888CC, #CCAA88);"></div>
+<hr style="height:4px; background-color:#8888CC; border:none;" />
 
 
 
