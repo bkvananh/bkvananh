@@ -15,15 +15,6 @@
       </stop>
     </linearGradient>
   </defs>
-
-  <!-- Ảnh bên trái (Ena.png) -->
-  <image href="./Mafuyu.png"
-         x="50" y="20" width="296" height="256"/>
-
-  <!-- Ảnh bên phải (Mafuyu.png) -->
-  <image href="./Ena.png"
-         x="854" y="20" width="296" height="256"/>
-
   <!-- Chữ gradient ở giữa, cách ảnh hai bên 30px -->
   <text x="600" y="160" text-anchor="middle"
         fill="url(#grad1)" font-size="40" font-weight="bold"
@@ -32,4 +23,5 @@
   </text>
 
 </svg>
+
 
