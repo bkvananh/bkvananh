@@ -8,9 +8,9 @@
 
 <hr style="height:4px; background-color:#8888CC; border:none;" />
 
+[![](https://readme-typing-svg.herokuapp.com?font=&weight=600&size=25&pause=1000&color=8888CC&center=true&vCenter=true&width=435&lines=Hello%2C+my+name's+BKVAnh.)](https://git.io/typing-svg)
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&size=25&pause=1000&color=8888CC&center=true&vCenter=true&width=435&lines=Hello%2C+my+name's+BKVAnh.)](https://git.io/typing-svg)
   <img src="https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif" alt="get bugged lol" width="500" />
 </p>
 
