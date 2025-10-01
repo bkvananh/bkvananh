@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250">
   <defs>
-    <!-- Gradient đổi màu -->
+
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#8888CC">
         <animate attributeName="stop-color" values="#8888CC;#CCAA88;#8888CC" dur="6s" repeatCount="indefinite" />
@@ -10,7 +10,7 @@
       </stop>
     </linearGradient>
 
-    <!-- Hiệu ứng Glow -->
+
     <filter id="glow">
       <feGaussianBlur stdDeviation="3.5" result="blur"/>
       <feMerge>
@@ -20,7 +20,7 @@
     </filter>
   </defs>
 
-  <!-- Text hiệu ứng viết tay -->
+ 
   <text x="50%" y="50%" text-anchor="middle"
         font-size="72" font-weight="bold"
         fill="url(#grad)" stroke="url(#grad)" stroke-width="2"
@@ -31,3 +31,4 @@
     <animate attributeName="stroke-dashoffset" from="2000" to="0" dur="5s" fill="freeze"/>
   </text>
 </svg>
+
