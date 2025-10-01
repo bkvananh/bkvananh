@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="[https://i.imgur.com/xyz123.gif](https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif)" alt="Banner" width="1000" />
+  <img src="https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif" alt="Banner" width="1000" />
 </p>
 
 
