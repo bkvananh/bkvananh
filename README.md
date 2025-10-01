@@ -28,8 +28,8 @@
 ----------------
 
 
-* 🌍  I'm based in Ho Chi Minh city
-* ✉️  You can contact me at [n23dcpt002@student.ptithcm.edu.vn](mailto:n23dcpt002@student.ptithcm.edu.vn)
-* 🧠  I'm currently learning HTML
+* 📍  Ho Chi Minh city
+* ✉️  Contact me at [n23dcpt002@student.ptithcm.edu.vn](mailto:n23dcpt002@student.ptithcm.edu.vn)
+* 🧠  Currently learning HTML
 * 💬  Help me about code!!
 
