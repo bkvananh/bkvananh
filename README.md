@@ -31,5 +31,5 @@
 * 🌍  I'm based in Ho Chi Minh city
 * ✉️  You can contact me at [n23dcpt002@student.ptithcm.edu.vn](mailto:n23dcpt002@student.ptithcm.edu.vn)
 * 🧠  I'm currently learning HTML
-* 💬  Ask me about help
+* 💬  Help me about code!!
 
