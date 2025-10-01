@@ -17,11 +17,11 @@
   </defs>
 
   <!-- Ảnh bên trái (Ena.png) -->
-  <image href="Ena.png"
+  <image href="./Mafuyu.png"
          x="50" y="20" width="296" height="256"/>
 
   <!-- Ảnh bên phải (Mafuyu.png) -->
-  <image href="Mafuyu.png"
+  <image href="./Ena.png"
          x="854" y="20" width="296" height="256"/>
 
   <!-- Chữ gradient ở giữa, cách ảnh hai bên 30px -->
@@ -32,3 +32,4 @@
   </text>
 
 </svg>
+
