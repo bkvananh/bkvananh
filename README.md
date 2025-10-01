@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="./Mafuyu.png" width="120"/>
-  <img src="./gradienttext.svg" height="150"/>
-  <img src="./Ena.png" width="120"/>
+  <img src="./Mafuyu.png" width="120" style="vertical-align: middle;"/>
+  <img src="./gradienttext.svg" height="150" style="vertical-align: middle;"/>
+  <img src="./Ena.png" width="120" style="vertical-align: middle;"/>
 </p>
+
 
 
 <hr style="height:4px; background-color:#8888CC; border:none;" />
