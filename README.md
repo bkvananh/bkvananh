@@ -15,11 +15,7 @@
 
 
 ----------------
-<p align="center">
-  <h1>Helle, my name's bkvAnh</h1>
-  <p>Đây là một mô tả ngắn về repo</p>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&width=435&lines=Hello%2C+my+name's+BKVAnh.)](https://git.io/typing-svg)
 
 * 🌍  I'm based in Ho Chi Minh city
 * ✉️  You can contact me at [n23dcpt002@student.ptithcm.edu.vn](mailto:n23dcpt002@student.ptithcm.edu.vn)
