@@ -5,9 +5,9 @@
 </p>
 
 
+<div style="width:100%; height:8px; background:linear-gradient(to right, #8888CC, #CCAA88);"></div>
 
 
-===============================================================================================================================
 
 Newbie developer
 
