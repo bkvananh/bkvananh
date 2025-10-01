@@ -9,8 +9,10 @@
 <hr style="height:4px; background-color:#8888CC; border:none;" />
 
 
+<p align="center">
+  <img src="[https://i.imgur.com/xyz123.gif](https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif)" alt="Banner" width="1000" />
+</p>
 
-![Banner](https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif)
 
 ----------------
 
