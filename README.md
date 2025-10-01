@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./Mafuyu.png" height="100"/>
+  <img src="./Mafuyu.png" width="150"/>
   <img src="./gradienttext.svg" height="200"/>
-  <img src="./Ena.png" height="100"/>
+  <img src="./Ena.png" width="150"/>
 </p>
 
 
