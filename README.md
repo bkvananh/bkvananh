@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./Mafuyu.png" width="130" style="vertical-align: middle;"/>
-  <img src="./gradienttext.svg" height="150" style="vertical-align: middle;"/>
+  <img src="./gradienttext.svg" height="130" style="vertical-align: middle;"/>
   <img src="./Ena.png" width="130" style="vertical-align: middle;"/>
 </p>
 
