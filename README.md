@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="./gradienttext.svg" alt="Profile Banner" />
+  <img src="./Mafuyu.png" width="200"/>
+  <img src="./gradient-text.svg" height="80"/>
+  <img src="./Ena.png" width="200"/>
 </p>
+
 
 
 
