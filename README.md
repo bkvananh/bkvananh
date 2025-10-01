@@ -10,7 +10,7 @@
 
 
 
-Newbie developer
+![Banner](https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif)
 
 ----------------
 
