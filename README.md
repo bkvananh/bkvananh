@@ -11,6 +11,7 @@
 
 <p align="center">
   <img src="https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif" alt="Banner" width="500" />
+  get bugged lol
 </p>
 
 
