@@ -3,10 +3,10 @@
 
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#8888CC">
-        <animate attributeName="stop-color" values="#8888CC;#CCAA88;#8888CC" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#8888CC;#CCAA88;#8888CC" dur="2s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#CCAA88">
-        <animate attributeName="stop-color" values="#CCAA88;#8888CC;#CCAA88" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#CCAA88;#8888CC;#CCAA88" dur="2s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
@@ -31,4 +31,5 @@
     <animate attributeName="stroke-dashoffset" from="2000" to="0" dur="5s" fill="freeze"/>
   </text>
 </svg>
+
 
