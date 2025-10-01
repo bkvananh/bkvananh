@@ -1,21 +1,10 @@
-![](Mafuyu.png) 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 ![](Ena.png)
+<p align="center">
+  <img src="./gradient-banner.svg" alt="Profile Banner" />
+</p>
+
 ===============================================================================================================================
 
 Newbie developer
-<p align="center">
-  <svg viewBox="0 0 800 200">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          fill="url(#gradient)" font-size="48" font-weight="bold" font-family="Arial, sans-serif">
-      ✨ Welcome to My Profile ✨
-    </text>
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop stop-color="#800080" offset="0%" />   <!-- tím -->
-        <stop stop-color="#8B4513" offset="100%" /> <!-- nâu -->
-      </linearGradient>
-    </defs>
-  </svg>
-</p>
 
 ----------------
 
