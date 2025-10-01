@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gradientbanner.svg" alt="Profile Banner" />
+  <img src="./gradienttext.svg" alt="Profile Banner" />
 </p>
 
 
