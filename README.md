@@ -2,6 +2,21 @@
 ===============================================================================================================================
 
 Newbie developer
+<p align="center">
+  <svg viewBox="0 0 800 200">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          fill="url(#gradient)" font-size="48" font-weight="bold" font-family="Arial, sans-serif">
+      ✨ Welcome to My Profile ✨
+    </text>
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop stop-color="#800080" offset="0%" />   <!-- tím -->
+        <stop stop-color="#8B4513" offset="100%" /> <!-- nâu -->
+      </linearGradient>
+    </defs>
+  </svg>
+</p>
+
 ----------------
 
 * 🌍  I'm based in Ho Chi Minh city
