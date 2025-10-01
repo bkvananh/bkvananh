@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+
+  <!-- Gradient động nhanh -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8888CC">
+        <animate attributeName="stop-color"
+                 values="#8888CC;#CCAA88;#8888CC"
+                 dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#CCAA88">
+        <animate attributeName="stop-color"
+                 values="#CCAA88;#8888CC;#CCAA88"
+                 dur="2s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Ảnh bên trái (Ena.png) -->
+  <image href="Ena.png"
+         x="50" y="20" width="296" height="256"/>
+
+  <!-- Ảnh bên phải (Mafuyu.png) -->
+  <image href="Mafuyu.png"
+         x="854" y="20" width="296" height="256"/>
+
+  <!-- Chữ gradient ở giữa, cách ảnh hai bên 30px -->
+  <text x="600" y="160" text-anchor="middle"
+        fill="url(#grad1)" font-size="40" font-weight="bold"
+        font-family="Arial, sans-serif">
+    🎨 Welcome to my profile! ❄️
+  </text>
+
+</svg>
