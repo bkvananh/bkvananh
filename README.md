@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1314FE&center=true&vCenter=true&width=1000&lines=hello%2C+my+name's+bkvanh.+nice+%E5%85%94+meet+you.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif" alt="get bugged lol" width="500" />
+  <img src="https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif" alt="get bugged lol" width="300" />
 </p>
 
 
