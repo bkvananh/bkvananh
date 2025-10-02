@@ -17,8 +17,6 @@
   <a href="https://discord.gg/5UXgRt3q" alt="Discord" title="Niigo"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 <p align="center">
   <img src="https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif" alt="get bugged lol" width="300" />
