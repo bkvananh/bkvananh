@@ -31,3 +31,8 @@
 * 🧠  Currently learning HTML
 * 💬  Help me about code!!
 
+</p>
+<p align="center">
+  <img src="https://tenor.com/oyCLwCN5PpA.gif" alt="bugged lol" width="300" />
+</p>
+
