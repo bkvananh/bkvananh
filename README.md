@@ -33,6 +33,6 @@
 
 </p>
 <p align="center">
-  <img src="https://tenor.com/oyCLwCN5PpA.gif" alt="bugged lol" width="300" />
+  <img src="https://media.tenor.com/p6l-QhyZUogAAAAj/cockroach-dance.gif" alt="bugged lol" width="300" />
 </p>
 
