@@ -19,7 +19,7 @@
 
 </p>
 <p align="center">
-  <img src="https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif" alt="get bugged lol" width="100" />
+  <img src="https://media1.tenor.com/m/V8ZEl04Ef_4AAAAC/project-sekai-prsk.gif" alt="get bugged lol" width="300" />
 </p>
 
 
@@ -33,6 +33,6 @@
 
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/p6l-QhyZUogAAAAj/cockroach-dance.gif" alt="bugged lol" width="300" />
+  <img src="https://media.tenor.com/p6l-QhyZUogAAAAj/cockroach-dance.gif" alt="bugged lol" width="100" />
 </p>
 
