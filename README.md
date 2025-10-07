@@ -26,10 +26,32 @@
 ----------------
 
 
-* 📍  Ho Chi Minh city
-* ✉️  Contact me at [n23dcpt002@student.ptithcm.edu.vn](mailto:n23dcpt002@student.ptithcm.edu.vn)
-* 🧠  Currently learning HTML
-* 💬  Help me about code!!
+// 👋 Hi there! I'm Van Anh.
+
+const intro = {
+  fullName: "Bùi Kim Vân Anh",
+  alias: "5h1n0",
+  pronouns: "gimme/money",
+  role: "Multimedia Technology Student",
+  school: "PTIT HCM",
+  interests: [
+    "🎨 Drawing & Digital Art",
+    "🎸 Guitar & Music",
+    "🧵 Sewing & Handy Craft",
+    "💻 Coding & Electronics"
+  ],
+  techStack: {
+    languages: ["C", "C++", "Java", "HTML", "CSS", "JavaScript"],
+    tools: ["VS Code", "GitHub", "Figma", "MySQL", "Arduino"]
+  },
+  currentlyLearning: ["Frontend Dev", "Japanese", "Guitar"],
+  funFact: "Can fix your laptop *and* sew you a plushie.",
+  contact: {
+    email: "n23dcpt002@student.ptithcm.edu.vn"
+  }
+}
+
+console.log("Welcome to my GitHub profile 👾");
 
 </p>
 <p align="center">
