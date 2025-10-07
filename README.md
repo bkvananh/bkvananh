@@ -48,7 +48,7 @@ const bkvanh = {
   }
 }
 
-console.log("Welcome to my GitHub profile 👾");
+console.log("Set up our new world. And let's begin the simulation");
  </pre>
 </p>
 <p align="center">
