@@ -28,7 +28,7 @@
 const intro = {
   fullName: "Bùi Kim Vân Anh",
   alias: "5h1n0",
-  pronouns: "gimme/oney",
+  pronouns: "gimme/money",
   role: "Multimedia Technology Student",
   school: "PTIT HCM",
   interests: [
