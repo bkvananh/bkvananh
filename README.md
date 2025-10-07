@@ -24,14 +24,14 @@
 
 
 ----------------
-<pre lang="markdown"> ```
+<pre lang="markdown"> 
 
 // 👋 Hi there! I'm Van Anh.
 
 const intro = {
   fullName: "Bùi Kim Vân Anh",
   alias: "5h1n0",
-  pronouns: "gimme/money",
+  pronouns: "gimme/oney",
   role: "Multimedia Technology Student",
   school: "PTIT HCM",
   interests: [
@@ -52,7 +52,7 @@ const intro = {
 }
 
 console.log("Welcome to my GitHub profile 👾");
-``` </pre>
+ </pre>
 </p>
 <p align="center">
   <img src="https://media.tenor.com/p6l-QhyZUogAAAAj/cockroach-dance.gif" alt="bugged lol" width="100" />
