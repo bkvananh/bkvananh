@@ -25,7 +25,7 @@
 
 ----------------
 <pre lang="markdown"> 
-const intro = {
+const bkvanh = {
   fullName: "Bùi Kim Vân Anh",
   alias: "5h1n0",
   pronouns: "gimme/money",
