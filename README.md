@@ -25,30 +25,68 @@
 
 ----------------
 <pre lang="markdown"> 
-const bkvanh = {
-  fullName: "Bùi Kim Vân Anh",
-  alias: "5h1n0",
-  pronouns: "gimme/money",
-  role: "Multimedia Technology Student",
-  school: "PTIT HCM",
-  interests: [
-    "🎨 Drawing & Digital Art",
-    "🎸 Guitar & Music",
-    "🧵 Sewing & Handicraft",
-    "💻 Coding & Electronics"
-  ],
-  techStack: {
-    languages: ["C", "C++", "Java", "HTML", "CSS", "JavaScript"],
-    tools: ["VS Code", "GitHub", "Figma", "MySQL", "Arduino"]
-  },
-  currentlyLearning: ["Frontend Dev", "Japanese", "Guitar"],
-  funFact: "Can fix your laptop *and* sew you a plushie.",
-  contact: {
-    email: "n23dcpt002@student.ptithcm.edu.vn"
-  }
+#include <world.h>
+#include <dreams.h>
+#include <memory.h>
+#include <art.h>
+
+class Human {
+public:
+    string fullName;
+    string alias;
+    string pronouns;
+    string role;
+    string school;
+    vector<string> interests;
+    struct TechStack {
+        vector<string> languages;
+        vector<string> tools;
+    } techStack;
+    vector<string> currentlyLearning;
+    string funFact;
+    string contactEmail;
+
+    void execute() {
+        World.execute(alias);
+        console.log("Welcome to my GitHub profile 👾");
+    }
+};
+
+int main() {
+    Human bkvanh;
+
+    bkvanh.fullName = "Bùi Kim Vân Anh";
+    bkvanh.alias = "5h1n0";
+    bkvanh.pronouns = "gimme/money";
+    bkvanh.role = "Multimedia Technology Student";
+    bkvanh.school = "PTIT HCM";
+
+    bkvanh.interests = {
+        "🎨 Drawing & Digital Art",
+        "🎸 Guitar & Music",
+        "🧵 Sewing & Handicraft",
+        "💻 Coding & Electronics"
+    };
+
+    bkvanh.techStack.languages = {"C", "C++", "Java", "HTML", "CSS", "JavaScript"};
+    bkvanh.techStack.tools = {"VS Code", "GitHub", "Figma", "MySQL", "Arduino"};
+
+    bkvanh.currentlyLearning = {"Frontend Dev", "Japanese", "Guitar"};
+    bkvanh.funFact = "Can fix your laptop *and* sew you a plushie.";
+    bkvanh.contactEmail = "n23dcpt002@student.ptithcm.edu.vn";
+
+    bkvanh.execute();
+
+    while (alive(bkvanh)) {
+        bkvanh.create("art", "music", "code", "comfort");
+        bkvanh.learn("frontend", "Japanese", "guitar");
+        bkvanh.connect("people", "feelings", "stories");
+    }
+
+    World.save("memories/bkvanh");
+    return 0;
 }
 
-console.log("Set up our new world. And let's begin the simulation");
  </pre>
 </p>
 <p align="center">
