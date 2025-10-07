@@ -25,9 +25,6 @@
 
 ----------------
 <pre lang="markdown"> 
-
-// 👋 Hi there! I'm Van Anh.
-
 const intro = {
   fullName: "Bùi Kim Vân Anh",
   alias: "5h1n0",
