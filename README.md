@@ -24,7 +24,7 @@
 
 
 ----------------
-<pre lang="markdown"> 
+<pre> 
 #include <world.h>
 #include <dreams.h>
 #include <memory.h>
