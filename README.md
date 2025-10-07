@@ -48,7 +48,7 @@ public:
 
     void execute() {
         World.execute(alias);
-        console.log(Lay down your pieces. And let's begin object creation");
+        console.log("Lay down your pieces. And let's begin object creation");
     }
 };
 
