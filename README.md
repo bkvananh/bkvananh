@@ -24,7 +24,7 @@
 
 
 ----------------
-<pre lang="markdown"> ```js
+<pre lang="markdown"> ```
 
 // 👋 Hi there! I'm Van Anh.
 
