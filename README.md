@@ -34,7 +34,7 @@ const bkvanh = {
   interests: [
     "🎨 Drawing & Digital Art",
     "🎸 Guitar & Music",
-    "🧵 Sewing & Handy Craft",
+    "🧵 Sewing & Handicraft",
     "💻 Coding & Electronics"
   ],
   techStack: {
