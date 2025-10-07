@@ -24,7 +24,7 @@
 
 
 ----------------
-
+<pre lang="markdown"> ```js
 
 // 👋 Hi there! I'm Van Anh.
 
@@ -52,7 +52,7 @@ const intro = {
 }
 
 console.log("Welcome to my GitHub profile 👾");
-
+``` </pre>
 </p>
 <p align="center">
   <img src="https://media.tenor.com/p6l-QhyZUogAAAAj/cockroach-dance.gif" alt="bugged lol" width="100" />
