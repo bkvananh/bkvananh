@@ -55,8 +55,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bkvananh&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkvananh&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bkvananh&show_icons=true&theme=blue_navy" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkvananh&layout=compact&theme=blue_navy" height="160" />
 </p>
 
 <p align="center">✨ thanks for scrolling — have a good day and don’t forget to save your file ✨</p>
