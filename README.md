@@ -24,69 +24,42 @@
 
 
 ----------------
-```
-#include <world.h>
-#include <dreams.h>
-#include <memory.h>
-#include <art.h>
+> *"I draw, I code, I occasionally pretend I know what I’m doing."* 😌
 
-class Human {
-public:
-    string fullName;
-    string alias;
-    string pronouns;
-    string role;
-    string school;
-    vector<string> interests;
-    struct TechStack {
-        vector<string> languages;
-        vector<string> tools;
-    } techStack;
-    vector<string> currentlyLearning;
-    string funFact;
-    string contactEmail;
+## 🧠 About Me
+- 🎓 Multimedia Technology student @ **PTIT HCM**  
+- 🎨 Artist by heart, Developer by accident  
+- 💻 Into design, front-end, digital art, and all things a little weird but beautiful  
+- ☕ Currently running on caffeine and half-finished ideas  
 
-    void execute() {
-        World.execute(alias);
-        console.log("Lay down your pieces. And let's begin object creation");
-    }
-};
+## 🛠️ Tech & Tools I Use
+> (a.k.a. the stuff that makes my laptop cry)
+- **Languages:** JavaScript, Python, C/C++, SQL  
+- **Tools & Frameworks:** React, Node.js, Figma, Git, VS Code  
+- **Other:** Photoshop, Clip Studio Paint, After Effects  
 
-int main() {
-    Human bkvanh;
+## 🌈 Current Projects
+- 🧩 Building small things that look cool and sometimes even work  
+- 🎶 Experimenting with interactive visuals and creative coding  
+- 📚 Trying not to break my own portfolio... again  
 
-    bkvanh.fullName = "Bùi Kim Vân Anh";
-    bkvanh.alias = "5h1n0";
-    bkvanh.pronouns = "gimme/money";
-    bkvanh.role = "Multimedia Technology Student";
-    bkvanh.school = "PTIT HCM";
+## 💬 Let's Talk!
+- 💌 **Email:** n23dcpt002@student.ptithcm.edu.vn  
+- 🌐 **Portfolio (soon™):** coming when I stop procrastinating  
 
-    bkvanh.interests = {
-        "🎨 Drawing & Digital Art",
-        "🎸 Guitar & Music",
-        "🧵 Sewing & Handicraft",
-        "💻 Coding & Electronics"
-    };
+## ⚡ Fun Facts
+- I can sew plushies, fix laptops, and make them both look cute.  
+- I believe every bug hides a story — usually a tragic one.  
+- I name my files things like `fghdgfgfsgfdgjfh.js`.  
 
-    bkvanh.techStack.languages = {"C", "C++", "Java", "HTML", "CSS", "JavaScript"};
-    bkvanh.techStack.tools = {"VS Code", "GitHub", "Figma", "MySQL", "Arduino"};
+---
 
-    bkvanh.currentlyLearning = {"Frontend Dev", "Japanese", "Guitar"};
-    bkvanh.funFact = "Can fix your laptop *and* sew you a plushie.";
-    bkvanh.contactEmail = "n23dcpt002@student.ptithcm.edu.vn";
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=5h1n0&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5h1n0&layout=compact&theme=tokyonight" height="160" />
+</p>
 
-    bkvanh.execute();
-
-    while (alive(bkvanh)) {
-        bkvanh.create("art", "music", "code", "comfort");
-        bkvanh.learn("frontend", "Japanese", "guitar");
-        bkvanh.connect("people", "feelings", "stories");
-    }
-
-    World.save("memories/bkvanh");
-    return 0;
-}
-```
+<p align="center">✨ thanks for scrolling — have a good day and don’t forget to save your file ✨</p>
 
 </p>
 <p align="center">
