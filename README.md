@@ -45,7 +45,7 @@
 
 ## 💬 Let's Talk!
 - 💌 **Email:** n23dcpt002@student.ptithcm.edu.vn  
-- 🌐 **Portfolio :** bkvananh.github.io  
+- 🌐 **Portfolio :** <a href="bkvananh.github.io"></a>  
 
 ## ⚡ Fun Facts
 - I can sew plushies, fix laptops, and make them both look cute.  
