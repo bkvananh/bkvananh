@@ -45,7 +45,7 @@
 
 ## 💬 Let's Talk!
 - 💌 **Email:** n23dcpt002@student.ptithcm.edu.vn  
-- 🌐 **Portfolio (soon™):** coming when I stop procrastinating  
+- 🌐 **Portfolio :** bkvananh.github.io  
 
 ## ⚡ Fun Facts
 - I can sew plushies, fix laptops, and make them both look cute.  
